@@ -58,7 +58,7 @@ clj -Sdeps '{:deps {org.clojure/clojurescript {:mvn/version "1.10.64"}}}' \
 ```
 
 The output is:
-```json
+```
   :module-type :es6,
   :provides ["tapable/lib/Tapable.js" "tapable/lib/Tapable" "tapable"]}
  {:file
